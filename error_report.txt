@@ -1,0 +1,5 @@
+Total ERROR entries: 3
+List of ERROR lines:
+2025-04-05 10:01:00 ERROR Failed to connect to database
+2025-04-05 10:03:00 ERROR Invalid credentials
+2025-04-05 10:06:00 ERROR Failed to load resource: /img/logo.png
